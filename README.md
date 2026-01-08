@@ -79,7 +79,9 @@ src/app/
 <div>
 <img src="screenshots/foto1.png" alt="drawing" style="width:200px;"/>
 <img src="screenshots/foto2.png" alt="drawing" style="width:200px;"/>
-<img src="screenshots/foto3.png" alt="drawing" style="width:200px;"/>
+</div>
+
+<div>
 <img src="screenshots/foto4.png" alt="drawing" style="width:200px;"/>
 <img src="screenshots/foto5.png" alt="drawing" style="width:200px;"/>
 <div>
